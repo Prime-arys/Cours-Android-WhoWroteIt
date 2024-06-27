@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="instructions">Saisir le titre d\'un livre</string>
+    <string name="input_hint">titre du livre</string>
+    <string name="button_text">rechercher</string>
+    <string name="no_results">aucun résultat</string>
+    <string name="loading">Chargement</string>
+    <string name="no_search_term">Pas de tritre entré</string>
+    <string name="no_network">Pas de connexion</string>
+</resources>
